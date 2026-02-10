@@ -1,60 +1,45 @@
-# 📊 Machine Learning Models Project
+# 🤖 AI Chatbot using AWS
 
-An **individual project** where I independently designed, implemented, and evaluated multiple **Machine Learning models** to solve classification and prediction problems using real-world datasets.
+An **individually developed AI chatbot** built using **Amazon Web Services (AWS)** to enable intelligent, automated conversations.
 
-🚀 Built end-to-end — from data preprocessing to model deployment.
+The system understands user input, detects intents, generates smart responses, and can convert text to speech using cloud-based AI services.
 
 ---
 
 ## 📌 Overview
-This project demonstrates the complete Machine Learning workflow:
+This project demonstrates how AI and cloud technologies can be combined to build a real-world conversational assistant.
 
-- Data collection and cleaning
-- Feature engineering
-- Model training
-- Performance evaluation
-- Making predictions on new data
-
-The goal was to apply ML techniques to real-world problems and compare different algorithms to find the best-performing solution.
+I independently designed and implemented the chatbot, integrating Natural Language Processing with AWS services for scalable and intelligent interactions.
 
 ---
 
 ## ✨ Features
-- End-to-end ML pipeline
-- Data preprocessing & cleaning
-- Multiple supervised learning models
-- Performance evaluation metrics
-- Result visualization
-- Fully developed independently
+- Text-based conversation
+- Intent recognition and response generation
+- Natural Language Understanding (NLU)
+- Voice output using AWS Polly
+- Real-time interaction
+- Cloud-based architecture
 
 ---
 
 ## 🧠 Technologies Used
 - Python
-- pandas
-- NumPy
-- scikit-learn
-- Matplotlib
-- Jupyter Notebook
+- Amazon Lex (chatbot engine)
+- Amazon Polly (Text-to-Speech)
+- boto3 (AWS SDK)
+
 
 ---
 
-## 🏗️ My Responsibilities
+## 👩‍💻 My Responsibilities
 This was a **fully individual project**, and I independently:
 
-- Collected and prepared datasets
-- Engineered and selected features
-- Trained multiple ML models (SVM, Logistic Regression, Random Forest)
-- Tuned hyperparameters
-- Evaluated performance using accuracy & confusion matrix
-- Visualized results with charts and graphs
-- Documented the entire workflow
+- Designed the chatbot architecture
+- Created intents and responses using AWS Lex
+- Integrated AWS Polly for voice output
+- Implemented backend logic in Python
+- Connected AWS services using boto3
+- Tested and optimized performance
+- Documented the entire system
 
----
-
-
-## 🔮 Future Improvements
-- Add deep learning models
-- Try larger datasets
-- Deploy models as web APIs
-- Automate training pipeline
